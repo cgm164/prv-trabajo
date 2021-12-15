@@ -1,0 +1,14 @@
+{
+  "name": "trabajo",
+  "version": "1.0.0",
+  "description": "En este trabajo se abordará la recolección de datos de noticias relacionadas\r con el COVID-19 y sus variantes para su posterior limpieza y tratamiento. Para ello, \r se recolectará información de los principales periódicos, se comprobará la similitud \r de diferentes noticias y, finalmente, se mostrará una lista de noticias que se consideran relevantes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "swr": "^1.1.0"
+  }
+}
